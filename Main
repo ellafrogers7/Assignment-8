@@ -1,0 +1,15 @@
+public class App {
+    public static void main(String[] args) throws Exception {
+        
+        //BJP Pg. 83
+        int x = 8, y = 19, z = 23;
+        System.out.println("(" + x + ", " + y + ", " + z + ")");
+        
+        int m = 9, d = 21, a = 2005;
+        System.out.println("( " + m \/ + ", " + d \/ +", " + a + ")");
+        //
+    }
+
+   
+}
+
